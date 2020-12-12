@@ -1,0 +1,1 @@
+# UITableView-static-cell
